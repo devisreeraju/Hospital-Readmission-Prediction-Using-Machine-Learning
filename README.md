@@ -112,7 +112,7 @@ The goal is to help healthcare providers identify high-risk patients and improve
 
 ## 👩‍💻 Author
 
-Haritha (MCA Student)
+DEVI (MCA Student)
 Machine Learning & Data Science Enthusiast
 
 ---
